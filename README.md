@@ -8,8 +8,10 @@ For ubuntu it will be tested in the coming days. But normaly it is multiplatform
 - Go in QGIS and search "shade" plugin in the plugins manager, check it. Then you can find it in your toolbar.
 
 This plugin is user friendly, if you have some questions contact me or go to the GDAL documentation "DEMProcessing" : http://gdal.org/python/osgeo.gdal-module.html#DEMProcessingOptions .
+
 The python code of this plugin is in english but the interface is in french.
-Tested with windows 7, Qgis, 2.18.18, GDAL 2.2.4, QT 4.8.5.
+
+Tested with Windows 7, Qgis 2.18.18, GDAL 2.2.4, Qt 4.8.5 and Python 2.7.5.
 
 As we say in my country "voila !"
 
