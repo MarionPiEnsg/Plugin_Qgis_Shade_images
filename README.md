@@ -1,7 +1,7 @@
 # Plugin Qgis Shade for images
 Plugin QGIS in python for generate shade on image files (folder in input and output), french interface.
 
-How to use ?
+How to install ?
 - Extract shade.zip and copy it in folder : C:\\users\username\.qgis2\python\plugins for windows.
 For ubuntu it will be tested in the coming days. But normaly it is multiplatform.
 
