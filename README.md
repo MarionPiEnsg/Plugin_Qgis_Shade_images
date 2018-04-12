@@ -11,7 +11,7 @@ This plugin is user friendly, if you have some questions contact me.
 
 The python code of this plugin is in english but the interface is in french.
 
-Tested with Windows 7, Qgis 2.18.18, SAGA, Qt 4.8.5 and Python 2.7.5.
+Tested with Windows 7, Qgis 2.18.18, SAGA, GDAL 2.2.4, Qt 4.8.5 and Python 2.7.5.
 
 As we say in my country "voila !"
 
